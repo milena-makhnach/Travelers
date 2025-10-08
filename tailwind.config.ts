@@ -1,8 +1,5 @@
-
-
-
 const config = {
-    content: ['./dist/*.html'],
+  content: ['./dist/*.html'],
   theme: {
     extend: {},
   },
@@ -10,6 +7,6 @@ const config = {
     extend: {},
   },
   plugins: [],
-}
+};
 
 export default config;
