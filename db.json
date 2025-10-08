@@ -1,27 +1,22 @@
 [
   {
     "name": "Япония",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
     "description": "Япония — островное государство с древними традициями и современными технологиями. Известна храмами, сакурой, мегаполисами Токио и Осака, а также кухней: суши, рамен и матча."
   },
   {
     "name": "Франция",
-    "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
     "description": "Франция — страна искусства, моды и высокой кухни. Париж с Эйфелевой башней, Лувром, винодельни Бордо и лазурные пляжи Ниццы."
   },
   {
     "name": "Бразилия",
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
     "description": "Бразилия — крупнейшая страна Южной Америки, известная карнавалами, самбой, футболом, Амазонкой и тропическими лесами."
   },
   {
     "name": "Италия",
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
     "description": "Италия — страна истории, искусства и кулинарии. Рим, Венеция, Флоренция, Колизей, Ватикан, паста и пицца."
   },
   {
     "name": "Канада",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
     "description": "Канада — страна лесов, озёр и гор. Города Торонто, Ванкувер, Монреаль, северное сияние, национальные парки, хоккей и кленовый сироп."
   }
 ]
